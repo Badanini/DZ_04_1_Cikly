@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Task_12 {
     public static void main(String[] args) {
         int day = 0;
-        System.out.println("Спортсмен в первый день пробежал 50 км\nВведите интересующий вас пробег");
+        System.out.println("Спортсмен в первый день пробежал 50 км\nВведите интересующий вас пробег в км");
         Scanner scanner = new Scanner(System.in);
         int y = scanner.nextInt();
         double x = 50;
